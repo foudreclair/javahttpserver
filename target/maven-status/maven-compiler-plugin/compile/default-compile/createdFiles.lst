@@ -1,0 +1,7 @@
+com/isep/fr/lab3/MyThread.class
+com/isep/fr/lab3/httpd/Httplog.class
+com/isep/fr/lab3/httpd/Main.class
+com/isep/fr/lab3/httpd/ConfigReader.class
+com/isep/fr/lab3/App.class
+com/isep/fr/lab3/Point.class
+com/isep/fr/lab3/TwoAsyncThread.class

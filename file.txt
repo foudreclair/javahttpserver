@@ -1,0 +1,4 @@
+/127.0.0.1 Wed Oct 17 15:29:51 CEST 2018 GET/favicon.ico 404
+/127.0.0.1 Wed Oct 17 16:01:37 CEST 2018 GET/index.html 200
+/127.0.0.1 Wed Oct 17 16:01:37 CEST 2018 GET/favicon.ico 200
+/127.0.0.1 Wed Oct 17 16:01:37 CEST 2018 GET/favicon.ico 404
